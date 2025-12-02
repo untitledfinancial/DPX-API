@@ -1,11 +1,5 @@
 # DPX Treasury API
 
-Simplified, working version for Railway deployment.
-
-## 🚀 Deploy on Railway
-
-This repository is ready to deploy on Railway.
-
 ### Environment Variables Required
 
 ```bash
